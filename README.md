@@ -1,1 +1,5 @@
 # ransomware
+
+MongoDb
+Gradle
+Java

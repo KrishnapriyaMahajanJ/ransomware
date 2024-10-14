@@ -1,0 +1,13 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: ransomware
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/ransomware
+      database: ransomware
+      username: admin
+      password: admin
+      host: localhost
+      port: 27017

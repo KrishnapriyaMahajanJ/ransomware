@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ransomware
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: ransomware
+
